@@ -1,9 +1,10 @@
 ---
-date: 2017-05-17T13:03:58-04:00
+title: spicy ahi tuna tartare
 categories:
   - lunch
+  - diner
+description: 'cucumber, french breakfast radish, sesame, lemongrass ponzu, rice cracker'
 type: Raw Bar
-title: spicy ahi tuna tartare
-description: cucumber, french breakfast radish, sesame, lemongrass ponzu, rice cracker
 price: 20
 ---
+

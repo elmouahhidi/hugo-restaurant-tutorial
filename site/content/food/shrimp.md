@@ -5,5 +5,5 @@ categories:
 type: raw bar
 title: chilled wild louisiana gulf shrimp
 description: spicy cocktail sauce, thai basil aioli
-price: 18
+price: 19
 ---
